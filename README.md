@@ -1,4 +1,4 @@
-<img src="https://ibb.co/YkG90zg">
+<img src="https://www.linkpicture.com/q/Copy-of-Purple-and-Pink-Modern-Work-From-Home-Simple-Presentation.png">
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Mayank Jain
 <img align="right" src="https://komarev.com/ghpvc/?username=mayankjain301001&label=Profile%20views&color=0e75b6&style=flat" alt="mayankjain301001" /> </h1>
 <p>I am currently pursuing <b>B.Tech</b> focused in <b>Computer Science</b> from Maharaja Agrasen Institute Of Technology, Delhi. I'm a <b>Competitive Programmer</b> with advanced knowledge of <b>Data Structures & Algorithms</b> in C++ and Java. I'm a passionate <b>Web Developer</b>, learning and exploring new technologies :)</p>
